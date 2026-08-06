@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CARLOX62/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/CARLOX62/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/CARLOX62/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
