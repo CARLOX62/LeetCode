@@ -47,7 +47,7 @@ This repository contains my solutions to LeetCode problems covering a wide range
 
 # 🏆 LeetCode Profile
 
-> Replace `Aniket6203` with your actual username.
+> `Aniket6203`
 
 <p align="center">
 
