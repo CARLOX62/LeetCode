@@ -204,3 +204,11 @@ It motivates me to keep solving and sharing more problems.
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Keep+Learning!;Keep+Building!;Keep+Coding!+💙" />
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/CARLOX62/LeetCode/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
