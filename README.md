@@ -211,6 +211,7 @@ It motivates me to keep solving and sharing more problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CARLOX62/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/CARLOX62/LeetCode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -223,4 +224,12 @@ It motivates me to keep solving and sharing more problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/CARLOX62/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/CARLOX62/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
