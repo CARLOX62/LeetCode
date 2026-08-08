@@ -211,4 +211,16 @@ It motivates me to keep solving and sharing more problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/CARLOX62/LeetCode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
