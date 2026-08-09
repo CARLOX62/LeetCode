@@ -110,6 +110,36 @@ This repository contains my solutions to LeetCode problems covering a wide range
 
 ---
 
+
+# 📂 Solved Problems
+
+<!-- AUTO-GENERATED:SOLVED:START -->
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1 | [Two Sum](https://github.com/CARLOX62/LeetCode/tree/main/0001-two-sum) | 🟢 Easy |
+| 7 | [Reverse Integer](https://github.com/CARLOX62/LeetCode/tree/main/0007-reverse-integer) | 🟡 Medium |
+| 9 | [Palindrome Number](https://github.com/CARLOX62/LeetCode/tree/main/0009-palindrome-number) | 🟢 Easy |
+| 26 | [Remove Duplicates from Sorted Array](https://github.com/CARLOX62/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) | 🟢 Easy |
+| 53 | [Maximum Subarray](https://github.com/CARLOX62/LeetCode/tree/main/0053-maximum-subarray) | 🟡 Medium |
+| 54 | [Spiral Matrix](https://github.com/CARLOX62/LeetCode/tree/main/0054-spiral-matrix) | 🟡 Medium |
+| 69 | [Sqrt(x)](https://github.com/CARLOX62/LeetCode/tree/main/0069-sqrtx) | 🟢 Easy |
+| 73 | [Set Matrix Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0073-set-matrix-zeroes) | 🟡 Medium |
+| 121 | [Best Time to Buy and Sell Stock](https://github.com/CARLOX62/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy |
+| 128 | [Longest Consecutive Sequence](https://github.com/CARLOX62/LeetCode/tree/main/0128-longest-consecutive-sequence) | 🟡 Medium |
+| 189 | [Rotate Array](https://github.com/CARLOX62/LeetCode/tree/main/0189-rotate-array) | 🟡 Medium |
+| 283 | [Move Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0283-move-zeroes) | 🟢 Easy |
+| 485 | [Max Consecutive Ones](https://github.com/CARLOX62/LeetCode/tree/main/0485-max-consecutive-ones) | 🟢 Easy |
+| 507 | [Perfect Number](https://github.com/CARLOX62/LeetCode/tree/main/0507-perfect-number) | 🟢 Easy |
+| 509 | [Fibonacci Number](https://github.com/CARLOX62/LeetCode/tree/main/0509-fibonacci-number) | 🟢 Easy |
+| 1768 | [Merge Strings Alternately](https://github.com/CARLOX62/LeetCode/tree/main/1768-merge-strings-alternately) | 🟢 Easy |
+| 2149 | [Rearrange Array Elements by Sign](https://github.com/CARLOX62/LeetCode/tree/main/2149-rearrange-array-elements-by-sign) | 🟡 Medium |
+| 2877 | [Create a DataFrame from List](https://github.com/CARLOX62/LeetCode/tree/main/2877-create-a-dataframe-from-list) | 🟢 Easy |
+| 2878 | [Get the Size of a DataFrame](https://github.com/CARLOX62/LeetCode/tree/main/2878-get-the-size-of-a-dataframe) | 🟢 Easy |
+| 2879 | [Display the First Three Rows](https://github.com/CARLOX62/LeetCode/tree/main/2879-display-the-first-three-rows) | 🟢 Easy |
+
+<!-- AUTO-GENERATED:SOLVED:END -->
+
 # 🎯 Roadmap
 
 - ✅ Easy Problems
@@ -206,37 +236,120 @@ It motivates me to keep solving and sharing more problems.
 </div>
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/CARLOX62/LeetCode/tree/master/0007-reverse-integer) |
-| [0069-sqrtx](https://github.com/CARLOX62/LeetCode/tree/master/0069-sqrtx) |
-| [0507-perfect-number](https://github.com/CARLOX62/LeetCode/tree/master/0507-perfect-number) |
+
+
+# 🧠 LeetCode Topics
+
+<!-- AUTO-GENERATED:TOPICS:START -->
+
 ## Array
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/CARLOX62/LeetCode/tree/master/0054-spiral-matrix) |
-| [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
-## Hash Table
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
-## Matrix
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/CARLOX62/LeetCode/tree/master/0054-spiral-matrix) |
-| [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
+
+| # | Problem |
+|---|---------|
+| 1 | [Two Sum](https://github.com/CARLOX62/LeetCode/tree/main/0001-two-sum) |
+| 26 | [Remove Duplicates from Sorted Array](https://github.com/CARLOX62/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
+| 53 | [Maximum Subarray](https://github.com/CARLOX62/LeetCode/tree/main/0053-maximum-subarray) |
+| 54 | [Spiral Matrix](https://github.com/CARLOX62/LeetCode/tree/main/0054-spiral-matrix) |
+| 73 | [Set Matrix Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0073-set-matrix-zeroes) |
+| 121 | [Best Time to Buy and Sell Stock](https://github.com/CARLOX62/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| 128 | [Longest Consecutive Sequence](https://github.com/CARLOX62/LeetCode/tree/main/0128-longest-consecutive-sequence) |
+| 189 | [Rotate Array](https://github.com/CARLOX62/LeetCode/tree/main/0189-rotate-array) |
+| 283 | [Move Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0283-move-zeroes) |
+| 485 | [Max Consecutive Ones](https://github.com/CARLOX62/LeetCode/tree/main/0485-max-consecutive-ones) |
+| 2149 | [Rearrange Array Elements by Sign](https://github.com/CARLOX62/LeetCode/tree/main/2149-rearrange-array-elements-by-sign) |
+
 ## Binary Search
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/CARLOX62/LeetCode/tree/master/0069-sqrtx) |
+
+| # | Problem |
+|---|---------|
+| 69 | [Sqrt(x)](https://github.com/CARLOX62/LeetCode/tree/main/0069-sqrtx) |
+
+## Divide and Conquer
+
+| # | Problem |
+|---|---------|
+| 53 | [Maximum Subarray](https://github.com/CARLOX62/LeetCode/tree/main/0053-maximum-subarray) |
+
+## Dynamic Programming
+
+| # | Problem |
+|---|---------|
+| 53 | [Maximum Subarray](https://github.com/CARLOX62/LeetCode/tree/main/0053-maximum-subarray) |
+| 121 | [Best Time to Buy and Sell Stock](https://github.com/CARLOX62/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) |
+| 509 | [Fibonacci Number](https://github.com/CARLOX62/LeetCode/tree/main/0509-fibonacci-number) |
+
+## Hash Table
+
+| # | Problem |
+|---|---------|
+| 1 | [Two Sum](https://github.com/CARLOX62/LeetCode/tree/main/0001-two-sum) |
+| 73 | [Set Matrix Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0073-set-matrix-zeroes) |
+| 128 | [Longest Consecutive Sequence](https://github.com/CARLOX62/LeetCode/tree/main/0128-longest-consecutive-sequence) |
+
+## Math
+
+| # | Problem |
+|---|---------|
+| 7 | [Reverse Integer](https://github.com/CARLOX62/LeetCode/tree/main/0007-reverse-integer) |
+| 9 | [Palindrome Number](https://github.com/CARLOX62/LeetCode/tree/main/0009-palindrome-number) |
+| 69 | [Sqrt(x)](https://github.com/CARLOX62/LeetCode/tree/main/0069-sqrtx) |
+| 189 | [Rotate Array](https://github.com/CARLOX62/LeetCode/tree/main/0189-rotate-array) |
+| 507 | [Perfect Number](https://github.com/CARLOX62/LeetCode/tree/main/0507-perfect-number) |
+| 509 | [Fibonacci Number](https://github.com/CARLOX62/LeetCode/tree/main/0509-fibonacci-number) |
+
+## Matrix
+
+| # | Problem |
+|---|---------|
+| 54 | [Spiral Matrix](https://github.com/CARLOX62/LeetCode/tree/main/0054-spiral-matrix) |
+| 73 | [Set Matrix Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0073-set-matrix-zeroes) |
+
+## Memoization
+
+| # | Problem |
+|---|---------|
+| 509 | [Fibonacci Number](https://github.com/CARLOX62/LeetCode/tree/main/0509-fibonacci-number) |
+
 ## Newton's Method
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/CARLOX62/LeetCode/tree/master/0069-sqrtx) |
+
+| # | Problem |
+|---|---------|
+| 69 | [Sqrt(x)](https://github.com/CARLOX62/LeetCode/tree/main/0069-sqrtx) |
+
+## Recursion
+
+| # | Problem |
+|---|---------|
+| 509 | [Fibonacci Number](https://github.com/CARLOX62/LeetCode/tree/main/0509-fibonacci-number) |
+
 ## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/CARLOX62/LeetCode/tree/master/0054-spiral-matrix) |
-<!---LeetCode Topics End-->
+
+| # | Problem |
+|---|---------|
+| 54 | [Spiral Matrix](https://github.com/CARLOX62/LeetCode/tree/main/0054-spiral-matrix) |
+| 2149 | [Rearrange Array Elements by Sign](https://github.com/CARLOX62/LeetCode/tree/main/2149-rearrange-array-elements-by-sign) |
+
+## String
+
+| # | Problem |
+|---|---------|
+| 1768 | [Merge Strings Alternately](https://github.com/CARLOX62/LeetCode/tree/main/1768-merge-strings-alternately) |
+
+## Two Pointers
+
+| # | Problem |
+|---|---------|
+| 26 | [Remove Duplicates from Sorted Array](https://github.com/CARLOX62/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
+| 189 | [Rotate Array](https://github.com/CARLOX62/LeetCode/tree/main/0189-rotate-array) |
+| 283 | [Move Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0283-move-zeroes) |
+| 1768 | [Merge Strings Alternately](https://github.com/CARLOX62/LeetCode/tree/main/1768-merge-strings-alternately) |
+| 2149 | [Rearrange Array Elements by Sign](https://github.com/CARLOX62/LeetCode/tree/main/2149-rearrange-array-elements-by-sign) |
+
+## Union-Find
+
+| # | Problem |
+|---|---------|
+| 128 | [Longest Consecutive Sequence](https://github.com/CARLOX62/LeetCode/tree/main/0128-longest-consecutive-sequence) |
+
+<!-- AUTO-GENERATED:TOPICS:END -->
+
