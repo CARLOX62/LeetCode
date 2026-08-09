@@ -216,6 +216,7 @@ It motivates me to keep solving and sharing more problems.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/CARLOX62/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -224,6 +225,7 @@ It motivates me to keep solving and sharing more problems.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/CARLOX62/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/CARLOX62/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
@@ -233,4 +235,8 @@ It motivates me to keep solving and sharing more problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/CARLOX62/LeetCode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/CARLOX62/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
