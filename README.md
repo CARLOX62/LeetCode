@@ -99,6 +99,8 @@ This repository contains my solutions to LeetCode problems covering a wide range
 
 # 📂 Solved Problems
 
+# 📂 Solved Problems
+
 <!-- AUTO-GENERATED:SOLVED:START -->
 
 | # | Problem | Difficulty |
@@ -127,6 +129,7 @@ This repository contains my solutions to LeetCode problems covering a wide range
 | 2878 | [Get the Size of a DataFrame](https://github.com/CARLOX62/LeetCode/tree/main/2878-get-the-size-of-a-dataframe) | 🟢 Easy |
 | 2879 | [Display the First Three Rows](https://github.com/CARLOX62/LeetCode/tree/main/2879-display-the-first-three-rows) | 🟢 Easy |
 | 2880 | [Select Data](https://github.com/CARLOX62/LeetCode/tree/main/2880-select-data) | 🟢 Easy |
+| 2881 | [Create a New Column](https://github.com/CARLOX62/LeetCode/tree/main/2881-create-a-new-column) | 🟢 Easy |
 
 <!-- AUTO-GENERATED:SOLVED:END -->
 
@@ -225,6 +228,8 @@ It motivates me to keep solving and sharing more problems.
 
 </div>
 
+
+# 🧠 LeetCode Topics
 
 # 🧠 LeetCode Topics
 
