@@ -346,3 +346,11 @@ It motivates me to keep solving and sharing more problems.
 
 <!-- AUTO-GENERATED:TOPICS:END -->
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/CARLOX62/LeetCode/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
