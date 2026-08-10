@@ -95,6 +95,8 @@ This repository contains my solutions to LeetCode problems covering a wide range
 
 # 📂 Solved Problems
 
+# 📂 Solved Problems
+
 <!-- AUTO-GENERATED:SOLVED:START -->
 
 | # | Problem | Difficulty |
@@ -111,6 +113,7 @@ This repository contains my solutions to LeetCode problems covering a wide range
 | 73 | [Set Matrix Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0073-set-matrix-zeroes) | 🟡 Medium |
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/CARLOX62/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock) | 🟢 Easy |
 | 128 | [Longest Consecutive Sequence](https://github.com/CARLOX62/LeetCode/tree/main/0128-longest-consecutive-sequence) | 🟡 Medium |
+| 175 | [Combine Two Tables](https://github.com/CARLOX62/LeetCode/tree/main/0175-combine-two-tables) | 🟢 Easy |
 | 189 | [Rotate Array](https://github.com/CARLOX62/LeetCode/tree/main/0189-rotate-array) | 🟡 Medium |
 | 283 | [Move Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0283-move-zeroes) | 🟢 Easy |
 | 485 | [Max Consecutive Ones](https://github.com/CARLOX62/LeetCode/tree/main/0485-max-consecutive-ones) | 🟢 Easy |
@@ -222,6 +225,8 @@ It motivates me to keep solving and sharing more problems.
 
 # 🧠 LeetCode Topics
 
+# 🧠 LeetCode Topics
+
 <!-- AUTO-GENERATED:TOPICS:START -->
 
 ## Array
@@ -247,6 +252,12 @@ It motivates me to keep solving and sharing more problems.
 | # | Problem |
 |---|---------|
 | 69 | [Sqrt(x)](https://github.com/CARLOX62/LeetCode/tree/main/0069-sqrtx) |
+
+## Database
+
+| # | Problem |
+|---|---------|
+| 175 | [Combine Two Tables](https://github.com/CARLOX62/LeetCode/tree/main/0175-combine-two-tables) |
 
 ## Divide and Conquer
 
