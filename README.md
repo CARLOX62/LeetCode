@@ -115,6 +115,8 @@ This repository contains my solutions to LeetCode problems covering a wide range
 
 # 📂 Solved Problems
 
+# 📂 Solved Problems
+
 <!-- AUTO-GENERATED:SOLVED:START -->
 
 | # | Problem | Difficulty |
@@ -123,6 +125,7 @@ This repository contains my solutions to LeetCode problems covering a wide range
 | 7 | [Reverse Integer](https://github.com/CARLOX62/LeetCode/tree/main/0007-reverse-integer) | 🟡 Medium |
 | 9 | [Palindrome Number](https://github.com/CARLOX62/LeetCode/tree/main/0009-palindrome-number) | 🟢 Easy |
 | 15 | [3Sum](https://github.com/CARLOX62/LeetCode/tree/main/0015-3sum) | 🟡 Medium |
+| 18 | [4Sum](https://github.com/CARLOX62/LeetCode/tree/main/0018-4sum) | 🟡 Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/CARLOX62/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) | 🟢 Easy |
 | 53 | [Maximum Subarray](https://github.com/CARLOX62/LeetCode/tree/main/0053-maximum-subarray) | 🟡 Medium |
 | 54 | [Spiral Matrix](https://github.com/CARLOX62/LeetCode/tree/main/0054-spiral-matrix) | 🟡 Medium |
@@ -245,6 +248,8 @@ It motivates me to keep solving and sharing more problems.
 
 # 🧠 LeetCode Topics
 
+# 🧠 LeetCode Topics
+
 <!-- AUTO-GENERATED:TOPICS:START -->
 
 ## Array
@@ -253,6 +258,7 @@ It motivates me to keep solving and sharing more problems.
 |---|---------|
 | 1 | [Two Sum](https://github.com/CARLOX62/LeetCode/tree/main/0001-two-sum) |
 | 15 | [3Sum](https://github.com/CARLOX62/LeetCode/tree/main/0015-3sum) |
+| 18 | [4Sum](https://github.com/CARLOX62/LeetCode/tree/main/0018-4sum) |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/CARLOX62/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 53 | [Maximum Subarray](https://github.com/CARLOX62/LeetCode/tree/main/0053-maximum-subarray) |
 | 54 | [Spiral Matrix](https://github.com/CARLOX62/LeetCode/tree/main/0054-spiral-matrix) |
@@ -340,6 +346,7 @@ It motivates me to keep solving and sharing more problems.
 | # | Problem |
 |---|---------|
 | 15 | [3Sum](https://github.com/CARLOX62/LeetCode/tree/main/0015-3sum) |
+| 18 | [4Sum](https://github.com/CARLOX62/LeetCode/tree/main/0018-4sum) |
 
 ## String
 
@@ -352,6 +359,7 @@ It motivates me to keep solving and sharing more problems.
 | # | Problem |
 |---|---------|
 | 15 | [3Sum](https://github.com/CARLOX62/LeetCode/tree/main/0015-3sum) |
+| 18 | [4Sum](https://github.com/CARLOX62/LeetCode/tree/main/0018-4sum) |
 | 26 | [Remove Duplicates from Sorted Array](https://github.com/CARLOX62/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array) |
 | 189 | [Rotate Array](https://github.com/CARLOX62/LeetCode/tree/main/0189-rotate-array) |
 | 283 | [Move Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0283-move-zeroes) |
