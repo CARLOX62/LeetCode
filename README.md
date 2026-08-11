@@ -101,6 +101,8 @@ This repository contains my solutions to LeetCode problems covering a wide range
 
 # 📂 Solved Problems
 
+# 📂 Solved Problems
+
 <!-- AUTO-GENERATED:SOLVED:START -->
 
 | # | Problem | Difficulty |
@@ -123,6 +125,7 @@ This repository contains my solutions to LeetCode problems covering a wide range
 | 485 | [Max Consecutive Ones](https://github.com/CARLOX62/LeetCode/tree/main/0485-max-consecutive-ones) | 🟢 Easy |
 | 507 | [Perfect Number](https://github.com/CARLOX62/LeetCode/tree/main/0507-perfect-number) | 🟢 Easy |
 | 509 | [Fibonacci Number](https://github.com/CARLOX62/LeetCode/tree/main/0509-fibonacci-number) | 🟢 Easy |
+| 704 | [Binary Search](https://github.com/CARLOX62/LeetCode/tree/main/0704-binary-search) | 🟢 Easy |
 | 1768 | [Merge Strings Alternately](https://github.com/CARLOX62/LeetCode/tree/main/1768-merge-strings-alternately) | 🟢 Easy |
 | 2149 | [Rearrange Array Elements by Sign](https://github.com/CARLOX62/LeetCode/tree/main/2149-rearrange-array-elements-by-sign) | 🟡 Medium |
 | 2877 | [Create a DataFrame from List](https://github.com/CARLOX62/LeetCode/tree/main/2877-create-a-dataframe-from-list) | 🟢 Easy |
@@ -237,6 +240,8 @@ It motivates me to keep solving and sharing more problems.
 
 # 🧠 LeetCode Topics
 
+# 🧠 LeetCode Topics
+
 <!-- AUTO-GENERATED:TOPICS:START -->
 
 ## Array
@@ -255,6 +260,7 @@ It motivates me to keep solving and sharing more problems.
 | 189 | [Rotate Array](https://github.com/CARLOX62/LeetCode/tree/main/0189-rotate-array) |
 | 283 | [Move Zeroes](https://github.com/CARLOX62/LeetCode/tree/main/0283-move-zeroes) |
 | 485 | [Max Consecutive Ones](https://github.com/CARLOX62/LeetCode/tree/main/0485-max-consecutive-ones) |
+| 704 | [Binary Search](https://github.com/CARLOX62/LeetCode/tree/main/0704-binary-search) |
 | 2149 | [Rearrange Array Elements by Sign](https://github.com/CARLOX62/LeetCode/tree/main/2149-rearrange-array-elements-by-sign) |
 
 ## Binary Search
@@ -262,6 +268,7 @@ It motivates me to keep solving and sharing more problems.
 | # | Problem |
 |---|---------|
 | 69 | [Sqrt(x)](https://github.com/CARLOX62/LeetCode/tree/main/0069-sqrtx) |
+| 704 | [Binary Search](https://github.com/CARLOX62/LeetCode/tree/main/0704-binary-search) |
 
 ## Database
 
