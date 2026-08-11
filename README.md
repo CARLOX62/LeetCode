@@ -93,16 +93,6 @@ This repository contains my solutions to LeetCode problems covering a wide range
 
 # 📂 Solved Problems
 
-# 📂 Solved Problems
-
-# 📂 Solved Problems
-
-# 📂 Solved Problems
-
-# 📂 Solved Problems
-
-# 📂 Solved Problems
-
 <!-- AUTO-GENERATED:SOLVED:START -->
 
 | # | Problem | Difficulty |
