@@ -3,6 +3,8 @@ class Solution:
         if total == n and len(subset) == k:
             self.result.append(subset.copy())
             return
+        if total > n or len(subset) > k:
+            return    
         for i in range(last,10):
             sum = total + i
             subset.append(i)
