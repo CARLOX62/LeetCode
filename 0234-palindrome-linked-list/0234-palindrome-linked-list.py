@@ -10,13 +10,4 @@ class Solution:
         while curr is not None:
             l1.append(curr.val)
             curr = curr.next
-
-        n = len(l1)
-        left = 0
-        right = n-1 
-        while left <= right:
-            if l1[left] != l1[right]:
-                return False
-            left = left + 1
-            right = right - 1
-        return True        
+        return l1 == l1[::-1]       
