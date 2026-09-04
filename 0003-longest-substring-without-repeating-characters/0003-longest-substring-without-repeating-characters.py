@@ -12,4 +12,5 @@ class Solution:
             maxi = max(maxi,right - left + 1)
             my_dict[s[right]] = right
             right += 1
+
         return maxi        
