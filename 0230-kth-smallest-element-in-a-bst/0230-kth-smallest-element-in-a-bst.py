@@ -8,11 +8,10 @@ class Solution:
     def solve(self,root,result):
         if root == None:
             return
-        result.append(root.val)
         self.solve(root.left,result)
+        result.append(root.val)
         self.solve(root.right,result)    
     def kthSmallest(self, root: TreeNode | None, k: int) -> int:    
         result = []
         self.solve(root,result)
-        result.sort()
         return result[k - 1]
