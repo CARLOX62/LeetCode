@@ -4,28 +4,40 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def solve(self, root, k):
-        if root == None:
-            return
-
-        # Go to left subtree
-        self.solve(root.left, k)
-
-        # Visit current node
-        self.count += 1
-
-        # Check if current node is kth smallest
-        if self.count == k:
-            self.answer = root.val
-            return
-
-        # Go to right subtree
-        self.solve(root.right, k)   
+class Solution: 
     def kthSmallest(self, root: TreeNode | None, k: int) -> int:    
-        self.count = 0
-        self.answer = 0
+        count = 0
+        curr = root
 
-        self.solve(root, k)
+        while curr:
+            # If there is no left subtree
+            if curr.left is None:
+                count += 1
 
-        return self.answer
+                if count == k:
+                    return curr.val
+
+                curr = curr.right
+
+            else:
+                # Find inorder predecessor
+                pred = curr.left
+
+                while pred.right and pred.right != curr:
+                    pred = pred.right
+
+                # Create a temporary link
+                if pred.right is None:
+                    pred.right = curr
+                    curr = curr.left
+
+                # Remove temporary link
+                else:
+                    pred.right = None
+
+                    count += 1
+
+                    if count == k:
+                        return curr.val
+
+                    curr = curr.right
