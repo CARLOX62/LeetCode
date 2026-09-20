@@ -6,28 +6,21 @@
 #         self.right = None
 
 class Solution:
-    def Issolve(self,root,target,path):
+    def Issolve(self,root,p,q):
         if root is None:
-            return False
-        path.append(root)    
-
-        if root == target:
-            return True
-        if self.Issolve(root.left,target,path) or self.Issolve(root.right,target,path):
-            return True
-        path.pop()
-        return False        
+            return None
+        if root == p or root == q:
+            return root
+        left = self.Issolve(root.left,p,q)
+        right = self.Issolve(root.right,p,q)
+        if left is None and right is None:
+            return None
+        elif left is None:
+            return right
+        elif right is None:
+            return left
+        return root                          
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        path1 = []
-        path2 = []
+        return self.Issolve(root,p,q)
 
-        self.Issolve(root,p,path1)
-        self.Issolve(root,q,path2)
-
-        i = 0
-        while i < len(path1) and i < len(path2):
-            if path1[i] != path2[i]:
-                break
-            i += 1
-
-        return path1[i - 1]
+        
