@@ -5,18 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def solve(self,root,result):
+    def solve(self,root,limit):
         if root is None:
-            return 
-        self.solve(root.left,result)
-        result.append(root.val) 
-        self.solve(root.right,result)   
+            return True
+        if not limit[0] < root.val < limit[1]:
+            return False   
+        left = self.solve(root.left,[limit[0],root.val])
+        if left == False:
+            return False
+        right = self.solve(root.right,[root.val,limit[1]])   
+        return left and right
+
     def isValidBST(self, root: TreeNode | None) -> bool:
-        result = []
 
-        self.solve(root,result)
-
-        for i in range(1,len(result)):
-            if result[i] <= result[i-1]:
-                return False
-        return True   
+        return self.solve(root,[float("-inf"),float("inf")])
