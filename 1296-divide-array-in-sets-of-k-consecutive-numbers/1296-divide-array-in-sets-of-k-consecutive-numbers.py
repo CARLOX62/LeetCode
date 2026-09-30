@@ -1,3 +1,4 @@
+from collections import Counter
 class Solution:
     def isPossibleDivide(self, nums: list[int], k: int) -> bool:
         if len(nums) % k != 0:
