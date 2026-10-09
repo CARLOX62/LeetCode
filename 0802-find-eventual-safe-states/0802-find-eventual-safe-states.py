@@ -1,24 +1,27 @@
 class Solution:
+    def dfs(self,curr_node,graph,vis,path_vis,is_safe):
+        vis[curr_node] = 1
+        path_vis[curr_node] = 1
+        for adjnode in graph[curr_node]:
+            if vis[adjnode] == 0:
+                ans = self.dfs(adjnode,graph,vis,path_vis,is_safe)
+                if ans == False:
+                    return False
+            elif path_vis[adjnode] == 1:
+                return False
+        is_safe[curr_node] = 1
+        path_vis[curr_node] = 0
+        return True            
     def eventualSafeNodes(self, graph: list[list[int]]) -> list[int]:
         V = len(graph)
-        adj_list = [[]for _ in range(V)]
-        indegree = [0] * V
-        for node in range(V):
-            for adjnode in graph[node]:
-                adj_list[adjnode].append(node)
-                indegree[node] += 1
-
-        queue = deque()
-        for node in range(V):
-            if indegree[node] == 0:
-                queue.append(node)
-        result = []        
-        while len(queue) != 0:
-            node = queue.popleft()
-            result.append(node)
-            for adjnode in adj_list[node]:
-                indegree[adjnode] -= 1
-                if indegree[adjnode] == 0:
-                    queue.append(adjnode)
-        result.sort()
+        vis = [0 for _ in range(V)]
+        path_vis = [0 for _ in range(V)]
+        is_safe = [0 for _ in range(V)]
+        for i in range(V):
+            if vis[i] == 0:
+                self.dfs(i,graph,vis,path_vis,is_safe)
+        result = []
+        for i in range(V):
+            if is_safe[i] == 1:
+                result.append(i)
         return result            
