@@ -19,5 +19,5 @@ class Solution:
                     heapq.heappush(priority_queue,[new_dist,adjNode])
                     ways[adjNode] = ways[node]
                 elif new_dist == distance[adjNode]:
-                    ways[adjNode] += ways[node]
+                    ways[adjNode] += ways[node] % MOD
         return ways[n - 1] % MOD                
