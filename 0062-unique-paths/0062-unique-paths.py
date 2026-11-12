@@ -1,18 +1,22 @@
 class Solution:       
     def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[-1 for _ in range(n)]for _ in range(m)]
-        dp[0][0] = 1
-        for i in range(m):
-            for j in range(n):
+        prev = [-1] * n  # Previous row
+        for i in range(0, m):
+            curr = [-1] * n  # Current row
+            for j in range(0, n):
                 if i == 0 and j == 0:
+                    curr[0] = 1  # Start
                     continue
-                if i > 0:
-                    up = dp[i - 1][j]
-                else:
+                # up: from the row above
+                if i == 0:
                     up = 0
+                else:
+                    up = prev[j]
+                # left: from the same row, previous column
                 if j == 0:
                     left = 0
                 else:
-                    left = dp[i][j - 1]
-                dp[i][j] = up + left
-        return dp[m - 1][n - 1]                        
+                    left = curr[j - 1]
+                curr[j] = up + left
+            prev = curr  # Move current row to prev
+        return prev[n - 1]                       
