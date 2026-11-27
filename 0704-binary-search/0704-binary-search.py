@@ -1,5 +1,5 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
+    def search(self, nums: list[int], target: int) -> int:
         n = len(nums)
         low = 0
         high = n-1
@@ -11,4 +11,4 @@ class Solution:
                 high = mid - 1
             else:
                 low = mid + 1
-        return -1              
+        return -1 
